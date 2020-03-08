@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589048349186",
+    "firebase_url": "https://animalssound-e5c99.firebaseio.com",
+    "project_id": "animalssound-e5c99",
+    "storage_bucket": "animalssound-e5c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589048349186:android:96aea6da74e0add6a45d1b",
+        "android_client_info": {
+          "package_name": "easy.ciba.animalssound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589048349186-l17n145gjqjgtv9ghgqkuet14kmoll5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "easy.ciba.animalssound",
+            "certificate_hash": "f88a49f3e9520b194006d8084941945d35fdd529"
+          }
+        },
+        {
+          "client_id": "589048349186-19u7j3lafvl91nl6hlt1vm9efs41scmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbd07WvB2BYRitJ3eZIixskcDS_Kd0Tcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589048349186-19u7j3lafvl91nl6hlt1vm9efs41scmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
