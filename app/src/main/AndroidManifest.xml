@@ -14,8 +14,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GameActivityTwo"></activity>
-        <activity android:name=".GameActivity" />
+        <activity android:name=".GameActivityTwo"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".GameActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".HomeActivity"
             android:screenOrientation="portrait"
@@ -39,7 +41,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-5806026314019170~2002004664" />
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
